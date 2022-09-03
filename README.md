@@ -14,7 +14,7 @@ VTBMC服务器开源项目
 本服务器与以下组织和个人处于敌对关系
 1.Mcbbs
 
-#服务器详情与宣传贴
+# 服务器详情与宣传贴
 
 Klpbbs: https://klpbbs.com/thread-26650-1-1.html
 
